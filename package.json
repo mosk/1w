@@ -1,0 +1,32 @@
+{
+  "name": "1win__constructor",
+  "version": "0.0.1",
+  "description": "Сборщик писем для 1win",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js",
+    "text": "node src/utils/text.js",
+    "text2": "node src/utils/t.js"
+  },
+  "keywords": [
+    "email",
+    "constructor",
+    "1win"
+  ],
+  "author": "Mihail Moskalev",
+  "license": "ISC",
+  "type": "module",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "compress-images": "^2.0.5",
+    "gifsicle": "^5.2.1",
+    "pngquant-bin": "^6.0.1",
+    "pretty": "^2.0.0",
+    "request": "^2.88.2"
+  }
+}

@@ -1,0 +1,21 @@
+export const prefix = {
+	'de': `https://1win-mail-8.com/`,
+	'az': `https://1win-mail-5.com/`,
+	'es': `https://1win-mail-13.com/`,
+	'en': `https://1win-mail-9.com/`,
+	'hi': `https://1win-mail-3.com/`,
+	'fr': `https://1win-mail-6.com/`,
+	'in': `https://1win-mail-11.com/`,
+	'it': `https://1win-mail-8.com/`,
+	'kz': `https://1win-mail-1.com/`,
+	'ky': `https://1win-mail-7.com/`,
+	'pt': `https://1win-mail-12.com/`,
+	'mo': `https://1win-mail-8.com/`,
+	'pl': `https://1win-mail-11.com/`,
+	'sw': `https://1win-mail-14.com/`,
+	'ru': `https://1win-mail.com/`,
+	'tr': `https://1win-mail-15.com/`,
+	'tg': `https://1win-mail-10.com/`,
+	'ua': `https://1win-mail-4.com/`,
+	'uz': `https://1win-mail-2.com/`
+};
